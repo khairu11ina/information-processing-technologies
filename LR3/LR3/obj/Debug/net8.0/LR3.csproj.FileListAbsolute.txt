@@ -1,0 +1,14 @@
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\bin\Debug\net8.0\LR3.exe
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\bin\Debug\net8.0\LR3.deps.json
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\bin\Debug\net8.0\LR3.runtimeconfig.json
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\bin\Debug\net8.0\LR3.dll
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\bin\Debug\net8.0\LR3.pdb
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.AssemblyInfoInputs.cache
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.AssemblyInfo.cs
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.csproj.CoreCompileInputs.cache
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.dll
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\refint\LR3.dll
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.pdb
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\LR3.genruntimeconfig.cache
+C:\Users\khair\Desktop\211-722\ТОИ\LR3\LR3\obj\Debug\net8.0\ref\LR3.dll

@@ -1,0 +1,14 @@
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\bin\Debug\net8.0\LR1.exe
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\bin\Debug\net8.0\LR1.deps.json
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\bin\Debug\net8.0\LR1.runtimeconfig.json
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\bin\Debug\net8.0\LR1.dll
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\bin\Debug\net8.0\LR1.pdb
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.AssemblyInfoInputs.cache
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.AssemblyInfo.cs
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.csproj.CoreCompileInputs.cache
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.dll
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\refint\LR1.dll
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.pdb
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\LR1.genruntimeconfig.cache
+C:\Users\khair\Desktop\211-722\ТОИ\LR1\LR1\obj\Debug\net8.0\ref\LR1.dll
